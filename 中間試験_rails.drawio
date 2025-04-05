@@ -456,15 +456,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qKbSrpR0Bi6hAb8t3nhE" name="フロー図_update_tag">
-    <mxGraphModel dx="928" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2SCZlpuEDSXJAj37iOwt-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2SCZlpuEDSXJAj37iOwt-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="120" height="70" as="geometry" />
+        <mxCell id="2SCZlpuEDSXJAj37iOwt-3" value="post.tagの配列化" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
